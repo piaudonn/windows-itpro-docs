@@ -181,7 +181,7 @@ mstsc.exe /remoteGuard
 ```
 
 > [!NOTE]
-> The user must be part of administrators group.
+> The user must be authorized to connect to the remote server using Remote Desktop Protocol. For example, by being a member of the remote server Remote Desktop Users group.
 
 ## Considerations when using Windows Defender Remote Credential Guard
 
